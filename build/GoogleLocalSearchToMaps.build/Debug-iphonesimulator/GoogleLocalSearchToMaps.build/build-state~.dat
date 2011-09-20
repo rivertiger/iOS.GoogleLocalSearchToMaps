@@ -1,0 +1,554 @@
+TGoogleLocalSearchToMaps
+v7
+r0
+t300590579.707512
+cCheck dependencies
+cProcessInfoPlistFile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/Info.plist GoogleLocalSearchToMaps-Info.plist
+cCompileXIB /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/MainWindow.xib
+cProcessPCH /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch.gch GoogleLocalSearchToMaps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/main.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSObject+SBJSON.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSString+SBJSON.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJSON.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonBase.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonParser.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonWriter.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/GoogleLocalSearchToMapsAppDelegate.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AddressAnnotation.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AccessoryView.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/MapViewController.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/YouTubeTableViewController.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps normal i386
+cGenerateDSYMFile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app.dSYM /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps
+cTouch /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.h
+c000000004AD06D5200000000000000D5
+t1255173458
+s213
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.m
+c000000004AD06D5200000000000003F3
+t1255173458
+s1011
+i"AccessoryView.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.h
+c000000004AD06D5200000000000001E4
+t1255173458
+s484
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.m
+c000000004AD06D52000000000000020E
+t1255173458
+s526
+i"AddressAnnotation.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.h
+c000000004AD071520000000000000180
+t1255174482
+s384
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.m
+c000000004AD07DA200000000000002BB
+t1255177634
+s699
+i"GoogleLocalSearchToMapsAppDelegate.h"
+i"MapViewController.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.h
+c000000004AD11EF800000000000004B9
+t1255218936
+s1209
+i<UIKit/UIKit.h>
+i<MapKit/MapKit.h>
+i<MapKit/MKAnnotation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m
+c000000004AD11EF800000000000045E7
+t1255218936
+s17895
+i"MapViewController.h"
+i"AddressAnnotation.h"
+i"JSON.h"
+i"AccessoryView.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.h
+c000000004AD12B660000000000000215
+t1255222118
+s533
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m
+c000000004AD12B660000000000002254
+t1255222118
+s8788
+i"YouTubeTableViewController.h"
+i"JSON.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/GoogleLocalSearchToMaps_Prefix.pch
+c000000004AD06D9600000000000000D7
+t1255173526
+s215
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/JSON.h
+c000000004AD06D5200000000000008F9
+t1255173458
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.h
+c000000004AD06D520000000000000A01
+t1255173458
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.m
+c000000004AD06D52000000000000089C
+t1255173458
+s2204
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.h
+c000000004AD06D520000000000000916
+t1255173458
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.m
+c000000004AD06D52000000000000087C
+t1255173458
+s2172
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.h
+c000000004AD06D520000000000000AED
+t1255173458
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.m
+c000000004AD06D520000000000001ABC
+t1255173458
+s6844
+i"SBJSON.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.h
+c000000004AD06D520000000000000B82
+t1255173458
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.m
+c000000004AD06D520000000000000AC1
+t1255173458
+s2753
+i"SBJsonBase.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.h
+c000000004AD06D520000000000000C0B
+t1255173458
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.m
+c000000004AD06D5200000000000036CF
+t1255173458
+s14031
+i"SBJsonParser.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.h
+c000000004AD06D520000000000001140
+t1255173458
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.m
+c000000004AD06D520000000000001E83
+t1255173458
+s7811
+i"SBJsonWriter.h"
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/MainWindow.xib
+c000000004AD12C5A000000000000244A
+t1255222362
+s9290
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app
+t1278897779
+s238
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app.dSYM
+t1278897779
+s102
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps
+t1278897779
+s85296
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/Info.plist
+t1255173676
+s576
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/MainWindow.nib
+t1255222372
+s1479
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/PkgInfo
+t1255173676
+s8
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AccessoryView.o
+t1278897779
+s12892
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AddressAnnotation.o
+t1278897779
+s12800
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/GoogleLocalSearchToMaps.LinkFileList
+c000000004C3A6E710000000000000871
+t1278897777
+s2161
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/GoogleLocalSearchToMapsAppDelegate.o
+t1278897778
+s18852
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/MapViewController.o
+t1278897779
+s69776
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSObject+SBJSON.o
+t1278897778
+s8336
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSString+SBJSON.o
+t1278897778
+s8256
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJSON.o
+t1278897778
+s20120
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonBase.o
+t1278897778
+s13252
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonParser.o
+t1278897778
+s35968
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonWriter.o
+t1278897778
+s24900
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/YouTubeTableViewController.o
+t1278897779
+s51428
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/main.o
+t1278897778
+s6352
+
+N/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/main.m
+c000000004AD06D960000000000000174
+t1255173526
+s372
+i<UIKit/UIKit.h>
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BD1D4D20000000000061790
+t1272042706
+s399248
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BD1D4C800000000000001AF
+t1272042696
+s431
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004BD1D83E00000000000001D5
+t1272043582
+s469
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004BD1D83E000000000000017D
+t1272043582
+s381
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004BD1D85F0000000000185260
+t1272043615
+s1593952
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch.gch
+t1278897778
+s13825936
+
+NGoogleLocalSearchToMaps-Info.plist
+c000000004AD06D96000000000000038D
+t1255173526
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies300590577#300590577#0(0"0(0#1#0"8626782592#0"0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AccessoryView.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590579.004021
+e300590579.109504
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AccessoryView.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.m300590579#300590579#0(0"0(0#0#77"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.m8645973888#2436"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AccessoryView.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AccessoryView.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AddressAnnotation.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.991671
+e300590579.160693
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AddressAnnotation.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.m300590578#300590579#0(0"0(0#0#81"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.m8638584224#2444"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/AddressAnnotation.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/AddressAnnotation.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/GoogleLocalSearchToMapsAppDelegate.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.861580
+e300590578.991269
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/GoogleLocalSearchToMapsAppDelegate.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.m300590578#300590578#0(0"0(0#0#98"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.m8644609920#2478"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/GoogleLocalSearchToMapsAppDelegate.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/GoogleLocalSearchToMapsAppDelegate.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/MapViewController.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590579.109657
+e300590579.407915
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/MapViewController.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m: In function '-[MapViewController viewDidLoad]':
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m:139: warning: local declaration of 'queryTypeString' hides instance variable
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m: In function '-[MapViewController addressLocation:]':
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m:166: warning: 'stringWithContentsOfURL:' is deprecated (declared at /iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:362)
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m: In function '-[MapViewController mapView:regionDidChangeAnimated:]':
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m:428: warning: local declaration of 'mapView' hides instance variable
+lSLF07#2@89"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m300590579#300590579#0(1039"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m: In function '-[MapViewController viewDidLoad]':/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m:139: warning: local declaration of 'queryTypeString' hides instance variable/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m: In function '-[MapViewController addressLocation:]':/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m:166: warning: 'stringWithContentsOfURL:' is deprecated (declared at /iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:362)/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m: In function '-[MapViewController mapView:regionDidChangeAnimated:]':/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m:428: warning: local declaration of 'mapView' hides instance variable3(22@62"Local declaration of 'queryTypeString' hides instance variable300590579#131#159#0(6@81"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m276911736#139#0#139#0#0"0(22@213"'stringWithContentsOfURL:' is deprecated (declared at /iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:362)300590579#426#310#0(6@81"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m276911736#166#0#166#0#33"'*' is deprecated (declared at *)0(22@54"Local declaration of 'mapView' hides instance variable300590579#888#151#0(6@81"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m276911736#428#0#428#0#0"0(0#0#81"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m8630918016#2444"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/MapViewController.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/MapViewController.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSObject+SBJSON.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.454330
+e300590578.547648
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.m300590578#300590578#0(0"0(0#0#76"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.m8634329664#2437"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSObject+SBJSON.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSString+SBJSON.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.546006
+e300590578.628785
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.m300590578#300590578#0(0"0(0#0#76"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.m8625753504#2437"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/NSString+SBJSON.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJSON.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.547742
+e300590578.706258
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJSON.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.m300590578#300590578#0(0"0(0#0#67"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.m8621105600#2419"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJSON.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonBase.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.628891
+e300590578.734249
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonBase.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.m300590578#300590578#0(0"0(0#0#71"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.m8616546240#2427"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonBase.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonParser.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.706396
+e300590579.003851
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonParser.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.m300590578#300590579#0(0"0(0#0#73"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.m8615586496#2431"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonParser.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonWriter.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.734370
+e300590578.861456
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.m300590578#300590578#0(0"0(0#0#73"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.m8603828000#2431"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/JSON/SBJsonWriter.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/YouTubeTableViewController.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590579.160840
+e300590579.339599
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/YouTubeTableViewController.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m: In function '-[YouTubeTableViewController tableView:cellForRowAtIndexPath:]':
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m:200: warning: 'setText:' is deprecated (declared at /iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)
+o/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m:200: warning: incompatible Objective-C types returning 'struct NSString *', expected 'struct UITableViewCell *'
+lSLF07#2@98"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m300590579#300590579#0(678"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m: In function '-[YouTubeTableViewController tableView:cellForRowAtIndexPath:]':/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m:200: warning: 'setText:' is deprecated (declared at /iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m:200: warning: incompatible Objective-C types returning 'struct NSString *', expected 'struct UITableViewCell *'2(22@199"'setText:' is deprecated (declared at /iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)300590579#170#305#0(6@90"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m276914918#200#0#200#0#33"'*' is deprecated (declared at *)0(22@97"Incompatible Objective-C types returning 'struct NSString *', expected 'struct UITableViewCell *'300590579#475#203#0(6@90"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m276914918#200#0#200#0#0"0(0#0#90"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m8652058976#2462"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/YouTubeTableViewController.o0#
+
+CCompileC build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/main.o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590578.377087
+e300590578.545870
+r1
+xCompileC
+xbuild/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/main.o
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/main.m300590578#300590578#0(0"0(0#0#60"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/main.m8640874080#2410"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -include /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/main.m -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app.dSYM /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps
+s300590579.593437
+e300590579.703542
+r1
+xGenerateDSYMFile
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app.dSYM
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps
+lSLF07#2@157"GenerateDSYMFile build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app.dSYM build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps300590579#300590579#0(0"0(0#0#133"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps8633044800#493"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/usr/bin/dsymutil" /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app.dSYM0#
+
+CLd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps normal i386
+s300590579.408055
+e300590579.593322
+r1
+xLd
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps
+xnormal
+xi386
+lSLF07#2@138"Link /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps300590579#300590579#0(0"0(0#0#0"8630876288#1121"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -arch i386 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -L/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -filelist /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/Objects-normal/i386/GoogleLocalSearchToMaps.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -framework MapKit -o /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/GoogleLocalSearchToMaps0#
+
+CProcessInfoPlistFile /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app/Info.plist GoogleLocalSearchToMaps-Info.plist
+r0
+
+CProcessPCH /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch.gch GoogleLocalSearchToMaps_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300590577.379124
+e300590578.376957
+r1
+xProcessPCH
+x/var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch.gch
+xGoogleLocalSearchToMaps_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Precompile GoogleLocalSearchToMaps_Prefix.pch300590577#300590578#0(0"0(0#0#88"/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/GoogleLocalSearchToMaps_Prefix.pch8633052352#2271"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv LANG en_US.US-ASCII    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk" -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-generated-files.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-own-target-headers.hmap -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-all-target-headers.hmap -iquote /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/GoogleLocalSearchToMaps-project-headers.hmap -F/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/include -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources/i386 -I/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/GoogleLocalSearchToMaps.build/Debug-iphonesimulator/GoogleLocalSearchToMaps.build/DerivedSources -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/GoogleLocalSearchToMaps_Prefix.pch -o /var/folders/01/01-2Q65IELqXnLtkclkZZE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GoogleLocalSearchToMaps_Prefix-gycidxignekpivhinxruyjmoovxx/GoogleLocalSearchToMaps_Prefix.pch.gch0#
+
+CTouch /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app
+s300590579.703660
+e300590579.707463
+r1
+xTouch
+x/Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app
+lSLF07#2@115"Touch /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app300590579#300590579#0(0"0(0#0#0"8629560576#334"    cd /Users/User/Documents/DevApps/GoogleLocalSearchToMaps    setenv PATH "/iOS4 Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/iOS4 Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/User/Documents/DevApps/GoogleLocalSearchToMaps/build/Debug-iphonesimulator/GoogleLocalSearchToMaps.app0#
+

@@ -1,0 +1,2 @@
+/Users/user1/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m: In function '-[YouTubeTableViewController tableView:cellForRowAtIndexPath:]':
+/Users/user1/Documents/DevApps/GoogleLocalSearchToMaps/Classes/YouTubeTableViewController.m:200: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)
